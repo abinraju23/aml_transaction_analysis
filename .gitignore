@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+aml/results/*.csv
+aml/results/*.sqlite
+aml/results/test_dashboard.html
+data/
